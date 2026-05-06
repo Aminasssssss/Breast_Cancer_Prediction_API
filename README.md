@@ -131,6 +131,4 @@ Breast_Cancer/
 | ROC-AUC | 99.37% |
 
 
-## Author
 
-Amina Zhumatayeva
